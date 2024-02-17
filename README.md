@@ -1,2 +1,2 @@
 # Releases
-Market Script IO desktop application releases.
+Windows releases.
