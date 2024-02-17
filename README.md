@@ -1,2 +1,2 @@
-# scripter-releases
+# Releases
 Market Script IO desktop application releases.
